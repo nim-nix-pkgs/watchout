@@ -43,11 +43,11 @@
     "src-watchout-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1656573270,
-        "narHash": "sha256-F7ru4NBlNBlxQAWgUbCSOrCPn27eqZHTii+vRuLd1G0=",
+        "lastModified": 1657105195,
+        "narHash": "sha256-djTjfYGGZo53xJ/iw+8w3cNFcQLt0ru372s8L/e8ZdE=",
         "owner": "openpeep",
         "repo": "watchout",
-        "rev": "8ebf646588867019f2520601b7e11543cf6554eb",
+        "rev": "0fa5dfdf4d1ec23abff6f5a36418c880e996afbd",
         "type": "github"
       },
       "original": {
